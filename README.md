@@ -1,4 +1,3 @@
-<img width="2939" height="1722" alt="Image 16-07-26 at 2 52 PM 2" src="https://github.com/user-attachments/assets/db2441ea-7990-4bc9-b8fa-70c1234cc311" />
 # 📊 Financial Performance Dashboard
 
 ## Overview
