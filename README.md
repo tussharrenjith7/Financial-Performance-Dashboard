@@ -1,3 +1,4 @@
+<img width="2939" height="1722" alt="Image 16-07-26 at 2 52 PM 2" src="https://github.com/user-attachments/assets/db2441ea-7990-4bc9-b8fa-70c1234cc311" />
 # 📊 Financial Performance Dashboard
 
 ## Overview
@@ -37,5 +38,8 @@ The objective of this project is to provide business insights through interactiv
 - Tableau
 
 ## Dashboard Preview
+<img width="2939" height="1722" alt="Image 16-07-26 at 2 52 PM 2" src="https://github.com/user-attachments/assets/9a23ac3c-52c6-44e3-b25d-ab1f99ef4c50" />
+<img width="2937" height="1722" alt="Image 16-07-26 at 2 53 PM" src="https://github.com/user-attachments/assets/2ed0f9e5-d1ca-49d1-8da5-855cb50758db" />
+<img width="2939" height="1725" alt="Image 16-07-26 at 2 52 PM" src="https://github.com/user-attachments/assets/db6efe5b-2a6f-40e3-9be0-ccf139577b53" />
 
-*(Insert a screenshot of your dashboard below this section.)*
+on.)*
